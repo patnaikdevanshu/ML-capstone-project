@@ -9,17 +9,17 @@ This is a Classification Problem. In Machine Learning a classification problem i
 Classification belongs to the category of Supervised Learning where the targets also provided with the input data.
 
 I used four algorithms of this category:
-K-Near Neighbour (KNN)
-Decision Tree
-Support Vector Machine (SVM)
-Logistic Regression
+- K-Near Neighbour (KNN)
+- Decision Tree
+- Support Vector Machine (SVM)
+- Logistic Regression
 Why four algorithms and not only one?
 
 When you try to solve any machine learning problem you need to test different algorithms with the same category because you don't know which of them fit better with the problem and the dataset, so you will need to make some statistics metrics technics like:
 
-Jaccard Index
-F1-Score
-Log Loss
+- Jaccard Index
+- F1-Score
+- Log Loss
 Note: These metrics apply in classification problems algorithms. There are many metrics for each problem category in machine learning. The goal is to measure the accuracy of the algorithm and choose the better of them, the most accurate, in our case predicting the label "Loan_ status": PAIDOFF or COLLECTION.
 
 Let me show you another sample, this time is the "Final Report" about all the metrics for each algorithm that I showed to you above.
