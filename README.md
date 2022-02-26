@@ -27,14 +27,4 @@ Let me show you another sample, this time is the "Final Report" about all the me
 ![image](https://user-images.githubusercontent.com/71730642/155852547-b91a0f85-569d-448e-93af-fa7465607e84.png)
 
 
-When you have it is easier to choose the algorithm for your problem. For know Don't worry about the values, codes, libraries, used in this project because the important thing is to understand all the process from beginning to end.
-
-Remember the entire process to solve a machine learning problem:
-Identify the data
-Prepare the data
-Select the algorithm
-Train the algorithm
-Evaluates
-Deployment it
-Predict
-Evaluate predictions
+When you have this, it is easier to choose the algorithm for your problem. 
