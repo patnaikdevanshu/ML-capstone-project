@@ -1,6 +1,7 @@
 # The-Best-Classifier
 IBM ML with Python Capstone Project
-this is my final project in the course "Machine Learning with Python" from the "IBM Data Science Professional Certificate".  It's was the last course in the program but I need to complete the "Data Science Capstone" to get the professional certificate, so I'll try to explain to you what this project is.
+
+This is my final project in the course "Machine Learning with Python" from the "IBM Data Science Professional Certificate".  It's was the last course in the program but I need to complete the "Data Science Capstone" to get the professional certificate, so I'll try to explain to you what this project is.
 
 The project consists of a Banking problem to predict if a customer going to pay or not his loan based on a historical dataset that has 346 customers whose loans are already paid off or defaulted (When the loan falls in collection status). Let me show you an example of this data set:
 ![image](https://user-images.githubusercontent.com/71730642/155852495-d2b7794e-881b-460e-8495-a64d484dd2f8.png)
@@ -24,6 +25,8 @@ Note: These metrics apply in classification problems algorithms. There are many 
 
 Let me show you another sample, this time is the "Final Report" about all the metrics for each algorithm that I showed to you above.
 ![image](https://user-images.githubusercontent.com/71730642/155852547-b91a0f85-569d-448e-93af-fa7465607e84.png)
+
+
 When you have it is easier to choose the algorithm for your problem. For know Don't worry about the values, codes, libraries, used in this project because the important thing is to understand all the process from beginning to end.
 
 Remember the entire process to solve a machine learning problem:
