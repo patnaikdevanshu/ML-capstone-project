@@ -1,8 +1,6 @@
 # The-Best-Classifier
 IBM ML with Python Capstone Project
 
-This is my final project in the course "Machine Learning with Python" from the "IBM Data Science Professional Certificate".  It's was the last course in the program but I need to complete the "Data Science Capstone" to get the professional certificate, so I'll try to explain to you what this project is.
-
 The project consists of a Banking problem to predict if a customer going to pay or not his loan based on a historical dataset that has 346 customers whose loans are already paid off or defaulted (When the loan falls in collection status). Let me show you an example of this data set:
 ![image](https://user-images.githubusercontent.com/71730642/155852495-d2b7794e-881b-460e-8495-a64d484dd2f8.png)
 
