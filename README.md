@@ -12,6 +12,8 @@ I used four algorithms of this category:
 - Decision Tree
 - Support Vector Machine (SVM)
 - Logistic Regression
+
+
 Why four algorithms and not only one?
 
 When you try to solve any machine learning problem you need to test different algorithms with the same category because you don't know which of them fit better with the problem and the dataset, so you will need to make some statistics metrics technics like:
