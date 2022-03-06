@@ -21,6 +21,8 @@ When you try to solve any machine learning problem you need to test different al
 - Jaccard Index
 - F1-Score
 - Log Loss
+
+
 Note: These metrics apply in classification problems algorithms. There are many metrics for each problem category in machine learning. The goal is to measure the accuracy of the algorithm and choose the better of them, the most accurate, in our case predicting the label "Loan_ status": PAIDOFF or COLLECTION.
 
 Let me show you another sample, this time is the "Final Report" about all the metrics for each algorithm that I showed to you above.
